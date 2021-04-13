@@ -1,1 +1,1 @@
-# vs-code-eklenti-liste
+VSCode Eklenti Listesidir. Cloud Code | Code Share, Botlist
